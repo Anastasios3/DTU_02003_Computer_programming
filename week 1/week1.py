@@ -13,3 +13,5 @@ arrivalHours = arrivalHours % 24
 
 print ("The train arrives: ", arrivalMinutes, "after", arrivalHours)
 print(arrivalHours, ":", arrivalMinutes)
+
+
