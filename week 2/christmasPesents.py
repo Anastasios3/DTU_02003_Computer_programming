@@ -8,5 +8,6 @@ if (month == "December"):
         print("Let's open the presents!")
     else:
         print("No presents today.")
+        
 else:
     print("No Christmas music")
