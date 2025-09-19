@@ -2,7 +2,7 @@
 # How many candies can you end up eating?
 
 wrappers = 0
-candies = 609
+candies = 1509
 eaten = 0
 
 print("candies:", candies, "wrappers:", wrappers, "eaten:", eaten)
