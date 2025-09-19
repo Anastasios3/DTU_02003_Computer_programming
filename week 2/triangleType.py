@@ -1,6 +1,6 @@
 # Problem 3.11: Triangle Type
 
-x = 0
+x = 2
 y = 2
 z = 3
 
