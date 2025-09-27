@@ -11,3 +11,5 @@ def fall_duration(height):
 print(fall_duration(100))
 print(fall_duration(50))
 print(fall_duration(150))
+print(fall_duration(200))
+print(fall_duration(300))
