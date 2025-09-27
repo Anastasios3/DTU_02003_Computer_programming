@@ -7,7 +7,6 @@ months = 0
 
 while debt > 0:
     months += 1
-    
     interest = interest_rate * debt
     debt = debt + interest
     
