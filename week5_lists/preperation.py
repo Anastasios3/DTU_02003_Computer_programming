@@ -265,3 +265,7 @@ for material in materials:
     if len(material) > 5: #checks if the length of each material is greater than 5
         count = count + 1
 print(count)
+
+my_list = ["Zero", "One", "Two", "Three", "Four", 
+           "Five", "Six", "Seven", "Eight", "Nine"]
+print(my_list[0:1])
