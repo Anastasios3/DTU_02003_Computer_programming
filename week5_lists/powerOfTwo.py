@@ -8,3 +8,10 @@
 
 #Test your code with n = 1, n = 4, and n = 10.
 
+PowersOfTwo = []
+
+n = 10
+
+for i in range(1, n + 1):
+    PowersOfTwo.append(2 ** i)
+print(PowersOfTwo)
